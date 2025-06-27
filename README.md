@@ -24,7 +24,7 @@ Este projeto tem como objetivo desenvolver um sistema simples de agendamento par
 
 ## 🧱 Diagrama de Classes
 
-Ver imagem em `/uml/diagrama.png`.
+Ver imagem em ""
 
 ---
 
@@ -66,6 +66,4 @@ OK
 ---
 
 ## 🎥 Apresentação
-
-Link do vídeo com a explicação do projeto:  
-➡️ https://youtu.be/link-ficticio-aqui
+https://youtu.be/Y_MSkeAQqDo
